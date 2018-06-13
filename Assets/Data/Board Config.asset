@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b1a2056075c114289a491142c5989e, type: 3}
+  m_Name: Board Config
+  m_EditorClassIdentifier: 
+  boards:
+  - width: 5
+    height: 7
+    mine: 5
+    scaleFactor: 4
+  - width: 7
+    height: 10
+    mine: 10
+    scaleFactor: 3
+  - width: 10
+    height: 15
+    mine: 29
+    scaleFactor: 2

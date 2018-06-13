@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72885ae92e3467441aba526a765c1829, type: 3}
+  m_Name: Texture Config
+  m_EditorClassIdentifier: 
+  cellTextures:
+  - {fileID: 21300004, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300006, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300008, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300010, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300012, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300014, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300016, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300018, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  - {fileID: 21300020, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  groundTexture: {fileID: 21300026, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  flagTexture: {fileID: 21300022, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  deadTexture: {fileID: 21300028, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}
+  mineTexture: {fileID: 21300024, guid: 0677a4650057bd54182a6ca76be52ad8, type: 3}

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 926d9692c881c0341adad4d5bf81c9a2
+timeCreated: 1504802329
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UTM Eremitage
+  fontNames:
+  - UTM Eremitage
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
